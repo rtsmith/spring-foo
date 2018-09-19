@@ -8,7 +8,7 @@ class HiFooController {
 
     @RequestMapping("/")
     fun index(): String {
-        return "Oh Kotlin is Hi-Foo"
+        return "Oh Kotlin is Hi-Tech"
     }
 
 }
